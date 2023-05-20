@@ -1,0 +1,66 @@
+{
+    "target": {
+        "scope": {
+            "advanced_mode": true,
+            "exclude": [],
+            "include": [
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.grammarly\\.io$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.grammarly\\.io$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.grammarlyaws\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.grammarlyaws\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.grammarly\\.com$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.grammarly\\.com$",
+                    "port": "^443$",
+                    "protocol": "https"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^grammarly\\.ai$",
+                    "port": "^80$",
+                    "protocol": "http"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^grammarly\\.ai$",
+                    "port": "^443$",
+                    "protocol": "https"
+                }
+            ]
+        }
+    }
+}

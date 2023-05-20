@@ -1,0 +1,4 @@
+Notes For LinkedIn
+
+- get some basic data on the domaine name and use burp. Figure out how to 
+upload the scope flie.
